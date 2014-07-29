@@ -1,0 +1,13 @@
+# Test group
+Test_OS_accounts:
+# Test users
+  atest1:
+    comment: 'Test 1, NNTEST1'
+  atest2:
+    comment: 'Test 2, NNTEST2'
+  atest3:
+    comment: 'Test 3, NNTEST3'
+  atest4:
+    comment: 'Test 4, NNTEST4'
+  atest5:
+    comment: 'Test 5 , NNTEST5'
