@@ -11,3 +11,5 @@ Test_OS_accounts:
     comment: 'Test 4, NNTEST4'
   atest5:
     comment: 'Test 5 , NNTEST5'
+  atest6:
+    comment: 'Test 6, NNTEST6'
