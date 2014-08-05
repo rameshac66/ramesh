@@ -15,4 +15,4 @@ Test_OS_accounts:
     comment: 'Test 6, NNTEST6'
 # again test 7
   atest7
-    comment 'ramesh, inssundaram'
+    comment: 'ramesh, inssundaram'
