@@ -22,5 +22,7 @@ Test_OS_accounts:
     comment: 'Anand, abasavan'
   atest10:
     comment: 'Thiayarajan, Chandran'
-  atest11
+  atest11:
     comment: 'Karthik, P'
+  atest12:
+    comment: 'Vijay, kumar'
