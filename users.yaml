@@ -14,9 +14,12 @@ Test_OS_accounts:
   atest6:
     comment: 'Test 6, NNTEST6'
 # again test 7
-  atest7
+  atest7:
     comment: 'ramesh, inssundaram'
-  atest8
+  atest8:
     comment: 'ram, insram'
-  atest9
+  atest9:
     comment: 'Anand, abasavan'
+  atest10:
+    comment: 'Thiayarajan, Chandran'
+
